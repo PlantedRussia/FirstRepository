@@ -1,5 +1,9 @@
 Hello World!!!
 12345
 Good bye!
+<<<<<<< HEAD
 git hello
+=======
+new2 lol kek cheburek
+>>>>>>> 4d1d460fe870474d724956f9e9a5ef264b13e1c5
 line from user1
